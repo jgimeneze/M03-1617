@@ -1,3 +1,7 @@
+* Tutorial github  
+https://guides.github.com/activities/hello-world/
+  
+* Comandes bàsiques  
 git clone https://github.com/jgimeneze/M03-1617  
 git status  
 git add  
